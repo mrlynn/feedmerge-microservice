@@ -1,0 +1,6 @@
+[submodule "services/twitter"]
+path = services/twitter
+url = git@github.com:mrlynn/feedmerge-microservice
+[submodule "feedmerge-microservice"]
+	path = feedmerge-microservice
+	url = git@github.com:mrlynn/feedmerge-microservice
